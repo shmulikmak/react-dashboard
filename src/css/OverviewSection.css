@@ -1,0 +1,16 @@
+.danger {
+    width: 50%;
+    display: inline-block;
+    line-height: 50px;
+    margin: 0 10px -10px;
+}
+
+.number {
+    display: inline-block;
+    line-height: 50px;
+    font-size: 1.7rem;
+}
+
+.section-title {
+    font-size: 2rem;
+}
